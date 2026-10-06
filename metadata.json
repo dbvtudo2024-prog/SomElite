@@ -1,0 +1,6 @@
+{
+  "name": "Sonoplastia de Elite",
+  "description": "Plataforma técnica de sonorização profissional com simulador acústico, manuais, tabelas de engenharia, cursos, simulados, conserto de equipamentos, consultoria rápida de palco e fórum técnico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
