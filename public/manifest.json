@@ -1,0 +1,18 @@
+{
+  "name": "Sonoplastia de Elite",
+  "short_name": "Sonoplastia",
+  "description": "Plataforma técnica de sonorização profissional, simulador acústico, manuais, tabelas, cursos e consultoria de palco.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F17",
+  "theme_color": "#0B0F17",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
